@@ -1,8 +1,11 @@
-M: Hey Rachel, how are you?
+## Diaglog
+
+M: Hey Rachel, how are you? 
 W: I'm good but I'm a bit nervous.
+
 M: Why?
 
-W: I am ** starting at at a new company ** in a couple of days, but i don't know how to introduce myself to a new goup of 
+W: I am **starting at at a new company**  in a couple of days, but i don't know how to introduce myself to a new goup of 
 
 people.
 M: The first day at a comany is never-racking, right?
@@ -25,11 +28,11 @@ W: I'll have to ,,, I am confidient and then a friendly smile will show
 
 
 ## Keep these words in mind
-nerve-racking: stressful, exhausting.
-new face(s): new face.
-project: give ro express a clear impression of one's thoughts or personality. 
-fimsy [flim-zee]: weak, with strength, unstable
-clammy: cold and damp, covered with moisture  
-clammy hands: a person with 
-leave an impression.
-at ease: without worry or anxiety.
+- nerve-racking: stressful, exhausting.
+- new face(s): new face.
+- project: give ro express a clear impression of one's thoughts or personality. 
+- fimsy [flim-zee]: weak, with strength, unstable
+- clammy: cold and damp, covered with moisture  
+- clammy hands: a person with 
+- leave an impression.
+- at ease: without worry or anxiety.
