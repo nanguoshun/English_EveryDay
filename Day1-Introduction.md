@@ -6,7 +6,7 @@ W: I'm good but I'm a bit nervous.
 
 M: Why?
 
-W: I am **starting at at a new company**  in a couple of days, but i don't really know how to introduce myself to a new goup of people.
+W: I am **starting at at a new company**  in a couple of days, but i don't really know how to introduce myself to a new group of people.
 
 M: The first day at a comany is **never-racking**, right? You meet so many **new faces** and they all know each other as well. **That is even worse.** But there are some things you should do on your first day.
 
