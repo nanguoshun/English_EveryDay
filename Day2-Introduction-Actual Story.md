@@ -17,17 +17,19 @@ I'm looking forward to+ verb / verb-ing.
 
 I'm looking forward to showing you my capabilities.
 
-As a new employee, I hope to /. I'm hoping to + verb.
+As a new employee, I hope to / I'm hoping to + verb.
 
 As a new employee, I hope to be successful in my role.
 
 As for my background, I have experience in + noun/ of + verb-ing.
 
-As for my background, I have experience of working abroad.
+As for my background, I have *experience of* working abroad.
 
-As for my background, I have work experience in teaching / planning.
+As for my background, I have a lot of *work experience in* teaching / planning.
 
+I've woked in educution for about twenty years.
 
+**well-rounded**: He is a well-rounded man,  well-rounded team   (strong capability)
 
 
 
