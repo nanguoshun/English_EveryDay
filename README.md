@@ -11,7 +11,7 @@ We are studying oral english on YouTube: https://www.youtube.com/watch?v=XpnT2fP
 
 Total Penalty: 
 
-*Note: The one who can not finish daily study will be punished $10*
+*Note: The one who can not finish daily study will be punished $10, which will be used for dinner funding*
 
 # WEEK 2
 - [ ] guoshun
