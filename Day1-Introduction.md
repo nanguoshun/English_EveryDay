@@ -57,9 +57,9 @@ W: Thank you.
 
 
 ## Keep these words in mind
-- nerve-racking: stressful, exhausting.
+- nerve-racking: stressful, exhausting.   This is a nerve-racking weekend as there are a lot of deadlines.
 - new face(s): new face.
-- project[v]: give  express a clear impression of one's thoughts or personality. 
+- project[v]: give or express a clear impression of one's thoughts or personality. 
 - fimsy [flim-zee]: weak, with strength, unstable
 - wipe: wipe your hand
 - clammy: cold and damp, covered with moisture, wet.
