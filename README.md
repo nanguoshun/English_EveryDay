@@ -3,7 +3,7 @@ We are studying oral english on YouTube: https://www.youtube.com/watch?v=XpnT2fP
 
 # WEEK 1
 - [x] guoshun
-- [ ] jack
+- [x] jack
 - [ ] guoshun
 - [ ] jack
 - [ ] guoshun
