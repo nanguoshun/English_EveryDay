@@ -10,9 +10,9 @@ W: Exactly, thinks like weather. That is always a general topic anybody can talk
 
 M: Everybody talks about the weather wherever you go. It is the topic of the day, and maybe something around your hobbies as well. Like you are into sport, maybe ask people who look a bit sporty. "did you see the game last night?"
 
-W: Yeah, that's true, Because you want to find the similarities between the people you are meeting for first time, you can delove into deeper converstation and get to know each other.
+W: Yeah, that's true, Because you want to find the similarities between the people you are meeting for first time, you can **delove into** deeper converstation and get to know each other.
 
-M: But stay off some sensitive topics, because you can **hit an awkward moment**. 
+M: But **stay off** some sensitive topics, because then you can **hit an awkward moment**. 
 
 W: Religion and politics?
 
