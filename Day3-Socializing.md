@@ -16,9 +16,15 @@ M: But stay off some sensitive topics, because you can **hit an awkward moment**
 
 W: Religion and politics?
 
-M: Absolutely, don't go too deeper. Don't **start waffling on about** your interest when other person just doesn't care. 
+M: Absolutely, don't go too deeper. Don't **start waffling on** about your interest when other person just doesn't care. 
 
-W: And you have to pick up all those cues to know when this person disinterested. 
+W: And you have to pick up all those **cues** to know when this person disinterested. 
+
+M: YES, and one sign is when he turns back to you.
+
+W: YES, that is definitely true. That is a very frank way to show that they are not interested.
+
+M: maybe when i see this guy next time, I am going to tell him this great tips. 
 
 
 # Keep these words in your mind:
@@ -29,4 +35,5 @@ W: And you have to pick up all those cues to know when this person disinterested
 - stay off: stay away from, keep a distance with somebody/something.
 - hit an awkward moment.
 - go deep: go over a certain limit
-- waffling about: 
+- waffling on: continously say something
+- cues: hints
