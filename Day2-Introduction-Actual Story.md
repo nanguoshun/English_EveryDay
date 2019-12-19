@@ -8,7 +8,7 @@ This week was a nerve-racking week with tons of deadlines to meet.
 
 You need to project your voice so that everyone can hear you.
 
-I tried hard to project a positive imag at the job interview.
+I tried hard to project a positive image at the job interview.
 
 **to leave or make an impression (on someone)**
 
