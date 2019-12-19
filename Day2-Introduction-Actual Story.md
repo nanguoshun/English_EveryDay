@@ -1,3 +1,24 @@
+# Actual Talk Expressions
+
+nerve-racking
+
+This week was a nerve-racking week with tons of deadlines to meet.
+
+project
+
+You need to project your voice so that everyone can hear you.
+
+I tried hard to project a positive imag at the job interview.
+
+to leave or make an impression (on someone)
+
+She left a great impression on my parents. They instantly fell in love with her.
+
+keep one's fingers crossed / cross one's fingers (for someone or something)
+
+I hope you ace the exam! I'll keep my fingers crossed for you.
+
+
 # Actual Story
 
 Hello, everyone. My name is Peter Liptak and I'm looking forward to working with all of you here at EBS. As an employee, I'm 
