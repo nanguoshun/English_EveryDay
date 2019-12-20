@@ -1,4 +1,4 @@
-#Actual Talk Expressions:
+# Actual Talk Expressions:
 
 **stick out**
 
@@ -26,7 +26,7 @@ Stay away from me
 
 Feelings of anger went deep on both sides and we never talked again.
 
-#Actual Story:
+# Actual Story:
 
 Q: How would you introduce yourself at a social gathering?
 
@@ -36,7 +36,7 @@ children.￼ I don't really have much time to these days. I also enjoy dancing. 
 can, I go out dancing - hit the town. And I love to exercise, so I'm into running and biking and swimming. I do some triathlons, the occasional marathon and even an ultra-marathon from time to time. Hopefully. I'll get to learn more about you. 
 
 
-#Useful expressions:
+# Useful expressions:
 
 As far as my hobbies go, I really enjoy going to the movies; I'm a big movie buff. And I love exercise, so I'm into running and biking and swimming.
 
@@ -52,7 +52,7 @@ I’m into strategy games.
 
 I'm into collecting old video games.
 
-#Introductions, Greetings & Small Talk
+# Introductions, Greetings & Small Talk
 
 Greet many people at a social event. "Mingle".
 
