@@ -7,7 +7,7 @@ We are studying oral english on YouTube: https://www.youtube.com/watch?v=XpnT2fP
 - [x] guoshun
 - [x] jack
 - [ ] guoshun
-- [ ] jack
+- [x] jack
 
 Total Penalty: 
 
