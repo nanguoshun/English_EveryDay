@@ -6,7 +6,7 @@ We are studying oral english on YouTube: https://www.youtube.com/watch?v=XpnT2fP
 - [x] jack
 - [x] guoshun
 - [x] jack
-- [x] guoshun （missing but catching up)
+- [x] guoshun （missed and already catched up)
 - [x] jack
 
 Total Penalty: $10 (guoshun)
