@@ -14,7 +14,7 @@ Total Penalty: $10 (guoshun)
 *Note: The one who can not finish daily study will be punished $10, which will be used for dinner funding*
 
 # WEEK 2
-- [ ] guoshun
+- [x] guoshun   
 - [ ] jack
 - [ ] guoshun
 - [ ] jack
