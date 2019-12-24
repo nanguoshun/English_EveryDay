@@ -24,8 +24,7 @@ I got a flu shot today. I didn't have to, but better safe than sorry, right?
 
 Q: What were you like in your teenage years, your 20s, 30s, 40s and so on?
 
-Let's just say I'm not young and I'm not old, but I'm still young at heart. Anyway, let's see. In my teenage years, I was 
-actually rather focused - focused on education of course, and enjoying life.
+My age? My age... maybe I forgot.￼ Let's just say I'm not young and I'm not old, but I'm still young at heart. Anyway, let's see. In my teenage years, I was actually rather focused - focused on education of course, and enjoying life.
 
 
 # Useful Expressions
@@ -40,5 +39,12 @@ Don: Your artwork is incredible!
 
 Lisa: Well, I'm not a professional, but let's just say I really like to paint.
 
-In my teenage years, I was focused on + verbing / noun.
+**In my teenage years, I was focused on + verbing / noun.**
+
+In my teens, I was focused on getting good grades.
+
+Last year, I was focused on getting married and this year, I'm focused on my husband.
+
+
+
 
