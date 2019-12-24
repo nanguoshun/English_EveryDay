@@ -24,7 +24,7 @@ I got a flu shot today. I didn't have to, but better safe than sorry, right?
 
 Q: What were you like in your teenage years, your 20s, 30s, 40s and so on?
 
-My age? My age... maybe I forgot.￼ Let's just say I'm not young and I'm not old, but I'm still young at heart. Anyway, let's see. In my teenage years, I was actually rather focused - focused on education of course, and enjoying life.
+My age? My age... maybe I forgot.￼ Let's just say I'm not young and I'm not old, but I'm still young at heart. Anyway, let's see. In my teenage years, I was actually rather focused - more so than ever been since - focused on education of course, and enjoying life. In my twenties, I was out kind of exploring the world, learning who I was. In my thirties, I focused on growing my career. And in my forties, I'm just enjoying life and really still feel like I'm just getting started in some ways, but I'm looking forward to the adventure.
 
 
 # Useful Expressions
