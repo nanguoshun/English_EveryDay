@@ -16,11 +16,11 @@ M: That is bitterseet. It's same for me because my immedidate family, my mother 
 
 W: now that you have a son and your wife. do things on family kind of change for you? Like perspective on famliy?
 
-M: Yeah, it's really strange, because now I have my own little family. And then above me it is my mum and dad so i'am a bit confused, because I only had my baby recently, but i think it turns into a bigger network and there is just more family love, I guess. And then it gets even more close knit.
+M: Yeah, it's really strange, because now I have my own little family. And then above me it is my mum and dad so i'am a bit confused, because I only had my baby recently, but i think it **turns into** a bigger network and there is just more family love, I guess. And then it gets even more close knit.
 
-W: yeah, it is important for your grandchildren to have good relationships with their grandparents. It is connecting those generations. You know what they say: blood is thicker than water. 
+W: yeah, it is important for your grandchildren to have good relationships with their grandparents. It is connecting those generations. You know what they say: **blood is thicker than water.** 
 
-M: It is. By Literally, So never forget about your family, and don't take them for granted. 
+M: It is. By Literally, So never forget about your family, and **don't take them for granted.**
 
 W: I agree.
 
