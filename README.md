@@ -16,7 +16,7 @@ Total Penalty: $10 (guoshun)
 # WEEK 2
 - [x] guoshun   
 - [x] jack
-- [ ] guoshun
+- [x] guoshun
 - [ ] jack
 - [ ] guoshun
 - [ ] jack
