@@ -30,7 +30,7 @@ W: I agree.
 - immediate family (father, ather)
 - extended family: 
 - the value of ...
-- bittersweet: both plesant and painful or regreatful.
+- bittersweet: both pleasent and painful or regreatful.
 - close-knit: very tight. My mother and I are close-knit ( means good relationship)
 - Literally. Exactly 
 - Don't take somebody for granted.  think it is so. (you should appreciate them)
