@@ -17,7 +17,7 @@ Total Penalty: $10 (guoshun)
 - [x] guoshun   
 - [x] jack
 - [x] guoshun
-- [ ] jack
+- [x] jack
 - [ ] guoshun
 - [ ] jack
 - [ ] guoshun
