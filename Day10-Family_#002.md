@@ -4,7 +4,7 @@
 
 He and I have been friends since elementary school. We have lots of bittersweet memories.
 
-Trips to th cemetery can be bittersweet at times.
+Trips to the cemetery can be bittersweet at times.
 
 **close-knit**
 
@@ -39,9 +39,9 @@ I have a huge extended family with 7 aunts an uncles an over twenty cousins.
 
 I have a small extended family with 2 aunts and 3 cousins on my mom's side.
 
-** ~ is th oldest / youngest of + number o siblings**
+** ~ is th oldest / youngest of + number of siblings**
 
-I'm the youngest o three.
+I'm the youngest of three.
 
 My father is the oldest of six.
 
