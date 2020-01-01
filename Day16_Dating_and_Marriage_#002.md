@@ -1,7 +1,7 @@
 # Actual Story
 
 I used to like good-looking guys when I was in my early 20s. But you know, I don't mean that good looking is just appearance 
-and tall, being tall but also th face expressions and impressions and also th way they talk and act. And I guess, as I grow
+and tall, being tall but also the face expressions and impressions and also the way they talk and act. And I guess, as I grow
 old, personality is more important because that can actually affect your relationship. You know, I'm looking for someone 
 that I can grow old with. And when I get married and have a family, then I'll try really hard to have a really good family
 and take care of it. Because I guess having a good family can boost your career and other part of life. So I would say having
