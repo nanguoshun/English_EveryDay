@@ -9,7 +9,7 @@ a good family can be number one priority. So I would do anything to keep my fami
 
 # Useful Patterns
 
-** Used to like (fall for) someone**
+**Used to like (fall for) someone**
 
 I used to like bad boys when I was in my 20s.
 
