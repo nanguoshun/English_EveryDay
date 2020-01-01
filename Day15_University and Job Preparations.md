@@ -2,13 +2,13 @@
 
 M: Rachel what did you major in at university.
  
-W: I stuied potical science and history, in the humanities.
+W: I studied political science and history, in the humanities.
 
 M: Wow that sounds intelligent.. and difficult.
 
 W: it was really fun.
 
-M: really? potical science and history?
+M: really? political science and history?
 
 W: that's why i studied it, because i liked it.
 
@@ -16,7 +16,7 @@ M: that's why i chose my major as well, biological sciences. But it got so diffi
 
 M: So you took a different career path, I see.
 
-M: for sure, yeah. I wanted anothing to do with bialogy after i finished my course. But is your career linked to your degree?
+M: for sure, yeah. I wanted nothing to do with biaology after i finished my course. But is your career linked to your degree?
 
 W: yeah, a little bit. I mean, I am studying political science further right now, so that I can reach my end goal, which is to work for a development organization, some kind of hunmanitarian refief effort organization. I college, during the semester I studied a lot.
 
@@ -24,14 +24,15 @@ W: I did party a lot, too. You know, they say if you study hard, you can play ha
 
 M: You should't just play hard.
 
-W: and i the summer vocation times, i did internships.
+W: and in the summer vocation times, i did internships and it was really helpful.
 
-M: Ok, well, the last question, is 
+M: Ok, well, the last question, is there anything you regret about your university?
 
-W: if i had to say one thing, I would say that i regret no studying more. I wasn't super studious, but i wish that i had taken everthing that i could from my classes... really soak up my brain. but there were times where i liked the fun, college aspect.
+W: if I had to say one thing, I would say that i regret not studying more. I wasn't super studious, but i wish that i had taken everthing that i could from my classes... really soak up my brain. but there were times where i liked the fun, college aspect.
 
 M: that's okay. and like we know. it is never to late to study. rachel. And you are still studying today. 
 
+W: I am, it is never to late to learn.
 
 
 # Keep these words in mind:
