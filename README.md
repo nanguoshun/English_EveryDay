@@ -20,13 +20,13 @@ We are studying oral english on YouTube: https://www.youtube.com/watch?v=XpnT2fP
 
 # WEEK 3
 - [x] jack 
-- [ ] guoshun
+- [x] guoshun (missed and already catched up)
 - [x] jack
 - [ ] guoshun
 - [ ] jack
 - [ ] guoshun
 - [ ] jack
 
-Total Penalty: $10 (guoshun)
+Total Penalty: $20 (guoshun)
 
 *Note: The one who can not finish daily study will be punished $10, which will be used for dinner funding*
