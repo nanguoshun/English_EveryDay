@@ -23,7 +23,7 @@ We are studying oral english on YouTube: https://www.youtube.com/watch?v=XpnT2fP
 - [x] guoshun (missed and already catched up)
 - [x] jack
 - [ ] guoshun
-- [ ] jack
+- [x] jack
 - [ ] guoshun
 - [ ] jack
 
