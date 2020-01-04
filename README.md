@@ -24,7 +24,7 @@ We are studying oral english on YouTube: https://www.youtube.com/watch?v=XpnT2fP
 - [x] jack
 - [x] guoshun (missed and already catched up)
 - [x] jack
-- [ ] guoshun
+- [x] guoshun
 - [ ] jack
 
 Total Penalty: $30 (guoshun)
