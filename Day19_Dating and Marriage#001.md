@@ -6,7 +6,7 @@ W: I am.
 
 M: Amazing! Did you always plan to get married?
 
-W: No, I never thought I was going to get married at this age, but I was alos never the type to plan out my life... When I am going to meet my future husband and when we're going to get married or I'm going to have kids. I just let nature take its course, and it worked out the way it did.
+W: No, I never thought I was going to get married at this age, but I was also never the type to plan out my life... When I am going to meet my future husband and when we're going to get married or I'm going to have kids. I just let nature take its course, and it worked out the way it did.
 
 M: I think it's best just to see how it goes.
 
@@ -16,13 +16,13 @@ M: If I'm honest, then yes because I kind of planned what age I'd get married an
 
 W: Congratulations.
 
-M: But as i got older, i forgot about that I just kind of dated. I met a fair share of girls, but not too many. But dating was really hit and miss. There were some good experiences, some terrible experiences. Once you're marrid it's kind of like a saft haven.
+M: But as i got older, i forgot about that I just kind of dated. I met a fair share of girls, but not too many. But dating was really **hit and miss**. There were some good experiences, some terrible experiences. Once you're marrid it's kind of like a saft haven.
 
-W: That's true. For me, I was kind of carefree about dating. But I did think serously about dating in the sense that I wasn't just going to date anyboy. If I was going to date someone, it would have to be with the thought of, "Do I have a future with this person?"
+W: That's true. For me, I was kind of carefree about dating. But I did think serously about dating in the sense that I wasn't just going to date anyboy. If I was going to date someone, it would **have to be with the thought of**, "Do I have a future with this person?"
 
-W: So that's the way I looked upon dating. I thought seriously about it before I jumped into a relationship. 
+W: So that's the way I looked upon dating. I thought seriously about it before I **jumped into** a relationship. 
 
-M: YOu just dated the special ones and it's worked out well and I'm sure as a married senior you are going to love it.
+M: You just dated the special ones and it's worked out well and I'm sure as a married senior you are going to love it.
 
 W: I look forward to it.
 
