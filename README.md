@@ -27,6 +27,9 @@ We are studying oral english on YouTube: https://www.youtube.com/watch?v=XpnT2fP
 - [x] guoshun
 - [x] jack
 
+----------------Recap Week---------------------
+
+
 # WEEK 4
 - [ ] guoshun 
 - [ ] jack
