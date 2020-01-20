@@ -46,8 +46,8 @@ W: Alright, thank you.
 
 # Actual Expressions
 
-** crave **: to hunger for
-** binge **: spree
-** grumble **: to complain
+*** crave ***: to hunger for
+*** binge ***: spree
+*** grumble ***: to complain
 
-** I tend to ** 
+*** I tend to *** 
