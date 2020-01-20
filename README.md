@@ -31,13 +31,13 @@ We are studying oral english on YouTube: https://www.youtube.com/watch?v=XpnT2fP
 
 
 # WEEK 4
-- [ ] guoshun 
-- [ ] jack
+- [x] jack
 - [ ] guoshun 
 - [ ] jack
 - [ ] guoshun
 - [ ] jack
 - [ ] guoshun
+- [ ] jack
 
 # WEEK 5
 - [ ] guoshun 
