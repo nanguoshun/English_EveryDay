@@ -46,8 +46,27 @@ W: Alright, thank you.
 
 # Actual Expressions
 
-*** crave ***: to hunger for
-*** binge ***: spree
-*** grumble ***: to complain
+**crave**: to hunger for
+**binge**: spree
+**grumble**: to complain
 
-*** I tend to *** 
+**I tend to**
+
+I tend to forget to eat.
+
+I tend to overeat.
+
+I tend to skip breakfast.
+
+**because of~, I binge at**
+
+Because of my working schedule, I binge at 11 at night.
+
+Because of my study schedule, I binge eat at 1 in the morning.
+
+**go for hours and hours**
+
+I usually go for hours and hours without eating (when I'm studying and working)
+e
+en
+
