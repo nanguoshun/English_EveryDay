@@ -1,8 +1,18 @@
-I was also very **independent** and responsible.
+Childhood habits:
 
-When I hung our with my friends I the one to be very cautions.
+When I was child, I cried a lot.
+When I was three, I cired a lot
 
-I wasn't a picky eaten, I ate everything that my mom gave me.
+I was also very **independent** and **responsible**.
+
+**Hunge out: spend time with**  
+**cautions: careful**
+When I hung out with my friends I was the one to be very cautions.
+
+**Picky eater**
+I wasn't a picky eater, I ate everything that my mom gave me.
+I used to be a picky eater
+
 
 
 
