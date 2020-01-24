@@ -32,7 +32,7 @@ We are studying oral english on YouTube: https://www.youtube.com/watch?v=XpnT2fP
 
 # WEEK 4
 - [x] jack
-- [ ] guoshun 
+- [x] guoshun 
 - [x] jack
 - [ ] guoshun
 - [ ] jack
