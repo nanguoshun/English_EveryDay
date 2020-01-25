@@ -34,7 +34,7 @@ We are studying oral english on YouTube: https://www.youtube.com/watch?v=XpnT2fP
 - [x] jack
 - [x] guoshun 
 - [x] jack
-- [ ] guoshun
+- [x] guoshun
 - [x] jack
 - [ ] guoshun
 - [ ] jack
